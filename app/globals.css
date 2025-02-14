@@ -170,7 +170,7 @@
     }
 
     .auth-illustration {
-        @apply sticky h-40 w-full sm:top-0 sm:h-screen sm:flex-1;
+        @apply sticky h-40 w-full sm:top-1 sm:h-screen sm:flex-1;
     }
 
     /* Root */

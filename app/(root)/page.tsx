@@ -1,7 +1,7 @@
 import React from "react";
 
 const page = () => {
-    return <div className=" flex flex-col  items-center ">page</div>;
+    return <h1 className=" flex flex-col  justify-center text-white ">HOME PAGE</h1>;
 };
 
 export default page;
